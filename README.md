@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Callmeamps
+- 👀 I’m interested in Cloud; DevOps; Self-Hosting; No-Code/Low-Code
+- 🌱 I’m currently learning APIs; Python; Front End Development (React)
+- 💞️ I’m looking to collaborate on anything exciting
+- 📫 How to reach me callmeamps@newnu.tech
