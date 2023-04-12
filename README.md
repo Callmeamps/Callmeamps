@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Callmeamps
-- 👀 I’m interested in Cloud; DevOps; Self-Hosting; No-Code/Low-Code
-- 🌱 I’m currently learning APIs; Python; Front End Development (React)
+# CallMeAmps
+- 👀 I’m interested in Cloud; DevOps; Self-Hosting; No-Code/Low-Code and more recently AI
+- 🌱 I’m currently learning about AIs; Python; Front End Development (React)
 - 💞️ I’m looking to collaborate on anything exciting
-- 📫 How to reach me callmeamps@newnu.tech
+
+## You Can Reach Me Hear:
+Email: ntokozo@callmeamps.one\
